@@ -1,0 +1,22 @@
+{
+  "name": "bower.json",
+  "description": "bower javascript depenndency manager",
+  "main": "bower.json",
+  "authors": [
+    "wobetu s."
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bower",
+    "npm"
+  ],
+  "homepage": "localhost/angularjs/public",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
